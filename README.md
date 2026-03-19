@@ -1,0 +1,1 @@
+En este repositorio se pueden encontrar todos los archivos que soportan la página web con respecto a los potenciales de captura de gases GHG para diferentes niveles de gestión en campo en la Finca Atardeceres S.A.S. 
